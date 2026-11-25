@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Lu.
 
-<!--
-**lujin88/lujin88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Product Designer in Zurich.
 
-Here are some ideas to get you started:
+AI: "Here are 10 versions!"  
+Me: "Cute. No. No. Maybe. That one."
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I hate wasted clicks, and I hate pretty things that don't work. Making is cheap now. I do the picking.
+
+## Building
+
+- **[Gratula](https://lujin.me/lab/party-planner)** — a calmer way to plan a party. AI agents do most of the making. I do most of the arguing. We're still negotiating who's in charge (it's me).
+- **[Scranton](https://github.com/lujin88/Scranton)** — my local branch office for AI agents. A Slack-style room where Claude Code, Codex and Cursor work as a team, on my own Mac. They never sleep. They also never pick the right one.
+
+Work, receipts and fewer jokes: [lujin.me](https://lujin.me)
+
+
+
+
+
+
+
+
+
