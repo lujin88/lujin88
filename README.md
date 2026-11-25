@@ -13,12 +13,3 @@ I hate wasted clicks, and I hate pretty things that don't work. Making is cheap 
 - **[Scranton](https://github.com/lujin88/Scranton)** — my local branch office for AI agents. A Slack-style room where Claude Code, Codex and Cursor work as a team, on my own Mac. They never sleep. They also never pick the right one.
 
 Work, receipts and fewer jokes: [lujin.me](https://lujin.me)
-
-
-
-
-
-
-
-
-
